@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Fredoka+One');
+
+h4 {
+    font-size: 70px;
+    color: salmon;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+    text-shadow: -5px 7px 40px black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: pink;
+    -ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+    margin-top: 10px;
+    float: left;
+
+    
+}
+
+.doge01 {
+    width: 50px;
+}
+
+.halp {
+    background-image: url("http://i2.kym-cdn.com/photos/images/facebook/000/581/722/7bc.jpg");
+    background-repeat: repeat-xy;
+    background-size: 100px;
+    height: 400px;
+
+}
+
+h5 {
+    color: salmon;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Baloo', cursive;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: pink;
+    -ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+    margin-top: 50px;
+    text-shadow: 7px 10px 25px black;
+
+}
+
+h6 {
+    color: pink;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Baloo', cursive;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: salmon;
+    -ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+    margin-top: 20px;
+    text-shadow: -7px 7px 20px black;
+}
+
+.jumbotron {
+    background-image: url('https://vignette1.wikia.nocookie.net/sanicsource/images/9/97/Doge.jpg/revision/latest?cb=20160112233015');
+    background-size: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-position: fixed;
+}
+
+.nav-pills {
+    background-color: white;
+    display: inline-block;
+    width: 100%;
+    font-size: 25px;
+    margin-bottom: 25px;
+    color: pink;
+
+}
+
+.nav-pills a, {
+    color: pink;
+}
+
+
+
+.nav-pills a:hover {
+    color: salmon;
+    text-shadow: 0px 1px 10px #999;
+    background-color: white;
+    
+}
+
+role.presentation {
+    background-color: pink;
+}
+
+.subTitle {
+    font-size: 20px;
+    color: darkmagenta;
+
+}
+
+
+.img-indent {
+    float: left;
+    width: 50px;
+}
+
+.yasss {
+    background-color: pink;
+}
+
+.footer {
+    background-color: white;
+    text-align: right;
+}
+
+.navs {
+    width: 100%;
+}
